@@ -1,0 +1,33 @@
+body {
+    background-image: url(images/car.jfif);
+    background-size: cover;
+}
+
+h3 {
+    text-align: left;
+    color: white;
+}
+
+h5 {
+    text-align: right;
+    color: white;
+    justify-content: space-around;
+    align-items: flex-end;
+}
+.text {
+    justify-content: space-around;
+}
+
+.image {
+    text-align: end;
+}
+
+.desc {
+    text-align: center;
+}
+h2.des {
+    color: red;
+}
+h2.dess {
+    color: white;
+}
